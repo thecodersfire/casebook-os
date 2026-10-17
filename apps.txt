@@ -1,0 +1,5 @@
+# Purpose-selected Flathub app IDs
+org.libreoffice.LibreOffice
+org.zotero.Zotero
+org.mozilla.firefox
+com.opera.opera-gx
