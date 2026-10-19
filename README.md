@@ -25,4 +25,4 @@ The `casebook.svg` wallpaper is original. Casebook OS is an independent Ubuntu c
 See [FEATURES.md](FEATURES.md) for three local tools included for legal research organization.
 
 
-The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
+The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
